@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>201</key>
+		<string>New Jersey</string>
+		<key>202</key>
+		<string>Washington D.C.</string>
+		<key>203</key>
+		<string>Connecticut</string>
+		<key>204</key>
+		<string>Canada - Manitoba</string>
+		<key>205</key>
+		<string>Alabama</string>
+		<key>206</key>
+		<string>Washington</string>
+		<key>207</key>
+		<string>Maine</string>
+		<key>208</key>
+		<string>Idaho</string>
+		<key>209</key>
+		<string>California</string>
+		<key>210</key>
+		<string>Texas</string>
+		<key>212</key>
+		<string>New York</string>
+		<key>213</key>
+		<string>California</string>
+		<key>214</key>
+		<string>Texas</string>
+		<key>215</key>
+		<string>Pennsylvania</string>
+		<key>216</key>
+		<string>Ohio</string>
+		<key>217</key>
+		<string>Illinois</string>
+		<key>218</key>
+		<string>Minnesota</string>
+		<key>219</key>
+		<string>Indiana</string>
+		<key>224</key>
+		<string>Illinois</string>
+		<key>225</key>
+		<string>Louisiana</string>
+		<key>226</key>
+		<string>Canada - Ontario</string>
+		<key>228</key>
+		<string>Mississippi</string>
+		<key>229</key>
+		<string>Georgia</string>
+		<key>231</key>
+		<string>Michigan</string>
+		<key>234</key>
+		<string>Ohio</string>
+		<key>236</key>
+		<string>Canada - British Columbia</string>
+		<key>239</key>
+		<string>Florida</string>
+		<key>240</key>
+		<string>Maryland</string>
+		<key>242</key>
+		<string>Bahamas</string>
+		<key>246</key>
+		<string>Barbados</string>
+		<key>248</key>
+		<string>Michigan</string>
+		<key>249</key>
+		<string>Canada - Ontario</string>
+		<key>250</key>
+		<string>Canada - British Columbia</string>
+		<key>251</key>
+		<string>Alabama</string>
+		<key>252</key>
+		<string>North Carolina</string>
+		<key>253</key>
+		<string>Washington</string>
+		<key>254</key>
+		<string>Texas</string>
+		<key>256</key>
+		<string>Alabama</string>
+		<key>260</key>
+		<string>Indiana</string>
+		<key>262</key>
+		<string>Wisconsin</string>
+		<key>264</key>
+		<string>Anguilla</string>
+		<key>267</key>
+		<string>Pennsylvania</string>
+		<key>268</key>
+		<string>Antigua &amp; Barbuda</string>
+		<key>269</key>
+		<string>Michigan</string>
+		<key>270</key>
+		<string>Kentucky</string>
+		<key>272</key>
+		<string>Pennsylvania</string>
+		<key>276</key>
+		<string>Virginia</string>
+		<key>281</key>
+		<string>Texas</string>
+		<key>284</key>
+		<string>British Virgin Islands</string>
+		<key>289</key>
+		<string>Canada - Ontario</string>
+		<key>301</key>
+		<string>Maryland</string>
+		<key>302</key>
+		<string>Delaware</string>
+		<key>303</key>
+		<string>Colorado</string>
+		<key>304</key>
+		<string>West Virginia</string>
+		<key>305</key>
+		<string>Florida</string>
+		<key>306</key>
+		<string>Canada - Saskatchewan</string>
+		<key>307</key>
+		<string>Wyoming</string>
+		<key>308</key>
+		<string>Nebraska</string>
+		<key>309</key>
+		<string>Illinois</string>
+		<key>310</key>
+		<string>California</string>
+		<key>312</key>
+		<string>Illinois</string>
+		<key>313</key>
+		<string>Michigan</string>
+		<key>314</key>
+		<string>Missouri</string>
+		<key>315</key>
+		<string>New York</string>
+		<key>316</key>
+		<string>Kansas</string>
+		<key>317</key>
+		<string>Indiana</string>
+		<key>318</key>
+		<string>Louisiana</string>
+		<key>319</key>
+		<string>Iowa</string>
+		<key>320</key>
+		<string>Minnesota</string>
+		<key>321</key>
+		<string>Florida</string>
+		<key>323</key>
+		<string>California</string>
+		<key>325</key>
+		<string>Texas</string>
+		<key>330</key>
+		<string>Ohio</string>
+		<key>331</key>
+		<string>Illinois</string>
+		<key>334</key>
+		<string>Alabama</string>
+		<key>336</key>
+		<string>North Carolina</string>
+		<key>337</key>
+		<string>Louisiana</string>
+		<key>339</key>
+		<string>Massachusetts</string>
+		<key>340</key>
+		<string>US Virgin Islands</string>
+		<key>343</key>
+		<string>Canada - Ontario</string>
+		<key>345</key>
+		<string>Cayman Islands</string>
+		<key>347</key>
+		<string>New York</string>
+		<key>351</key>
+		<string>Massachusetts</string>
+		<key>352</key>
+		<string>Florida</string>
+		<key>360</key>
+		<string>Washington</string>
+		<key>361</key>
+		<string>Texas</string>
+		<key>365</key>
+		<string>Canada - Ontario</string>
+		<key>385</key>
+		<string>Utah</string>
+		<key>386</key>
+		<string>Florida</string>
+		<key>401</key>
+		<string>Rhode Island</string>
+		<key>402</key>
+		<string>Nebraska</string>
+		<key>403</key>
+		<string>Canada - Alberta</string>
+		<key>404</key>
+		<string>Georgia</string>
+		<key>405</key>
+		<string>Oklahoma</string>
+		<key>406</key>
+		<string>Montana</string>
+		<key>407</key>
+		<string>Florida</string>
+		<key>408</key>
+		<string>California</string>
+		<key>409</key>
+		<string>Texas</string>
+		<key>410</key>
+		<string>Maryland</string>
+		<key>412</key>
+		<string>Pennsylvania</string>
+		<key>413</key>
+		<string>Massachusetts</string>
+		<key>414</key>
+		<string>Wisconsin</string>
+		<key>415</key>
+		<string>California</string>
+		<key>416</key>
+		<string>Canada - Ontario</string>
+		<key>417</key>
+		<string>Missouri</string>
+		<key>418</key>
+		<string>Canada - Quebec</string>
+		<key>419</key>
+		<string>Ohio</string>
+		<key>423</key>
+		<string>Tennessee</string>
+		<key>424</key>
+		<string>California</string>
+		<key>425</key>
+		<string>Washington</string>
+		<key>430</key>
+		<string>Texas</string>
+		<key>431</key>
+		<string>Canada - Manitoba</string>
+		<key>432</key>
+		<string>Texas</string>
+		<key>434</key>
+		<string>Virginia</string>
+		<key>435</key>
+		<string>Utah</string>
+		<key>437</key>
+		<string>Canada - Ontario</string>
+		<key>438</key>
+		<string>Canada - Quebec</string>
+		<key>440</key>
+		<string>Ohio</string>
+		<key>441</key>
+		<string>Bermuda</string>
+		<key>442</key>
+		<string>California</string>
+		<key>443</key>
+		<string>Maryland</string>
+		<key>450</key>
+		<string>Canada - Quebec</string>
+		<key>458</key>
+		<string>Oregon</string>
+		<key>469</key>
+		<string>Texas</string>
+		<key>470</key>
+		<string>Georgia</string>
+		<key>473</key>
+		<string>Grenada</string>
+		<key>475</key>
+		<string>Connecticut</string>
+		<key>478</key>
+		<string>Georgia</string>
+		<key>479</key>
+		<string>Arkansas</string>
+		<key>480</key>
+		<string>Arizona</string>
+		<key>484</key>
+		<string>Pennsylvania</string>
+		<key>501</key>
+		<string>Arkansas</string>
+		<key>502</key>
+		<string>Kentucky</string>
+		<key>503</key>
+		<string>Oregon</string>
+		<key>504</key>
+		<string>Louisiana</string>
+		<key>505</key>
+		<string>New Mexico</string>
+		<key>506</key>
+		<string>Canada - New Brunswick</string>
+		<key>507</key>
+		<string>Minnesota</string>
+		<key>508</key>
+		<string>Massachusetts</string>
+		<key>509</key>
+		<string>Washington</string>
+		<key>510</key>
+		<string>California</string>
+		<key>512</key>
+		<string>Texas</string>
+		<key>513</key>
+		<string>Ohio</string>
+		<key>514</key>
+		<string>Canada - Quebec</string>
+		<key>515</key>
+		<string>Iowa</string>
+		<key>516</key>
+		<string>New York</string>
+		<key>517</key>
+		<string>Michigan</string>
+		<key>518</key>
+		<string>New York</string>
+		<key>519</key>
+		<string>Canada - Ontario</string>
+		<key>520</key>
+		<string>Arizona</string>
+		<key>530</key>
+		<string>California</string>
+		<key>531</key>
+		<string>Nebraska</string>
+		<key>534</key>
+		<string>Wisconsin</string>
+		<key>539</key>
+		<string>Oklahoma</string>
+		<key>540</key>
+		<string>Virginia</string>
+		<key>541</key>
+		<string>Oregon</string>
+		<key>551</key>
+		<string>New Jersey</string>
+		<key>559</key>
+		<string>California</string>
+		<key>561</key>
+		<string>Florida</string>
+		<key>562</key>
+		<string>California</string>
+		<key>563</key>
+		<string>Iowa</string>
+		<key>567</key>
+		<string>Ohio</string>
+		<key>570</key>
+		<string>Pennsylvania</string>
+		<key>571</key>
+		<string>Virginia</string>
+		<key>573</key>
+		<string>Missouri</string>
+		<key>574</key>
+		<string>Indiana</string>
+		<key>575</key>
+		<string>New Mexico</string>
+		<key>579</key>
+		<string>Quebec</string>
+		<key>580</key>
+		<string>Oklahoma</string>
+		<key>581</key>
+		<string>Quebec</string>
+		<key>585</key>
+		<string>New York</string>
+		<key>586</key>
+		<string>Michigan</string>
+		<key>587</key>
+		<string>Canada - Alberta</string>
+		<key>601</key>
+		<string>Mississippi</string>
+		<key>602</key>
+		<string>Arizona</string>
+		<key>603</key>
+		<string>New Hampshire</string>
+		<key>604</key>
+		<string>Canada - British Columbia</string>
+		<key>605</key>
+		<string>South Dakota</string>
+		<key>606</key>
+		<string>Kentucky</string>
+		<key>607</key>
+		<string>New York</string>
+		<key>608</key>
+		<string>Wisconsin</string>
+		<key>609</key>
+		<string>New Jersey</string>
+		<key>610</key>
+		<string>Pennsylvania</string>
+		<key>612</key>
+		<string>Minnesota</string>
+		<key>613</key>
+		<string>Canada - Ontario</string>
+		<key>614</key>
+		<string>Ohio</string>
+		<key>615</key>
+		<string>Tennessee</string>
+		<key>616</key>
+		<string>Michigan</string>
+		<key>617</key>
+		<string>Massachusetts</string>
+		<key>618</key>
+		<string>Illinois</string>
+		<key>619</key>
+		<string>California</string>
+		<key>620</key>
+		<string>Kansas</string>
+		<key>623</key>
+		<string>Arizona</string>
+		<key>626</key>
+		<string>California</string>
+		<key>630</key>
+		<string>Illinois</string>
+		<key>631</key>
+		<string>New York</string>
+		<key>636</key>
+		<string>Missouri</string>
+		<key>639</key>
+		<string>Canada - Saskatchewan</string>
+		<key>641</key>
+		<string>Iowa</string>
+		<key>646</key>
+		<string>New York</string>
+		<key>647</key>
+		<string>Canada - Ontario</string>
+		<key>649</key>
+		<string>Turks &amp; Caicos</string>
+		<key>650</key>
+		<string>California</string>
+		<key>651</key>
+		<string>Minnesota</string>
+		<key>657</key>
+		<string>California</string>
+		<key>660</key>
+		<string>Missouri</string>
+		<key>661</key>
+		<string>California</string>
+		<key>662</key>
+		<string>Mississippi</string>
+		<key>664</key>
+		<string>Montserrat</string>
+		<key>667</key>
+		<string>Maryland</string>
+		<key>669</key>
+		<string>California</string>
+		<key>670</key>
+		<string>Northern Mariana Isl.</string>
+		<key>671</key>
+		<string>Guam</string>
+		<key>678</key>
+		<string>Georgia</string>
+		<key>681</key>
+		<string>West Virginia</string>
+		<key>682</key>
+		<string>Texas</string>
+		<key>684</key>
+		<string>American Samoa</string>
+		<key>701</key>
+		<string>North Dakota</string>
+		<key>702</key>
+		<string>Nevada</string>
+		<key>703</key>
+		<string>Virginia</string>
+		<key>704</key>
+		<string>North Carolina</string>
+		<key>705</key>
+		<string>Canada - Ontario</string>
+		<key>706</key>
+		<string>Georgia</string>
+		<key>707</key>
+		<string>California</string>
+		<key>708</key>
+		<string>Illinois</string>
+		<key>709</key>
+		<string>Canada - Newfoundland</string>
+		<key>712</key>
+		<string>Iowa</string>
+		<key>713</key>
+		<string>Texas</string>
+		<key>714</key>
+		<string>California</string>
+		<key>715</key>
+		<string>Wisconsin</string>
+		<key>716</key>
+		<string>New York</string>
+		<key>717</key>
+		<string>Pennsylvania</string>
+		<key>718</key>
+		<string>New York</string>
+		<key>719</key>
+		<string>Colorado</string>
+		<key>720</key>
+		<string>Colorado</string>
+		<key>721</key>
+		<string>Sint Maarten</string>
+		<key>724</key>
+		<string>Pennsylvania</string>
+		<key>727</key>
+		<string>Florida</string>
+		<key>731</key>
+		<string>Tennessee</string>
+		<key>732</key>
+		<string>New Jersey</string>
+		<key>734</key>
+		<string>Michigan</string>
+		<key>740</key>
+		<string>Ohio</string>
+		<key>747</key>
+		<string>California</string>
+		<key>754</key>
+		<string>Florida</string>
+		<key>757</key>
+		<string>Virginia</string>
+		<key>758</key>
+		<string>St. Lucia</string>
+		<key>760</key>
+		<string>California</string>
+		<key>762</key>
+		<string>Georgia</string>
+		<key>763</key>
+		<string>Minnesota</string>
+		<key>765</key>
+		<string>Indiana</string>
+		<key>767</key>
+		<string>Dominica</string>
+		<key>769</key>
+		<string>Mississippi</string>
+		<key>770</key>
+		<string>Georgia</string>
+		<key>772</key>
+		<string>Florida</string>
+		<key>773</key>
+		<string>Illinois</string>
+		<key>774</key>
+		<string>Massachusetts</string>
+		<key>775</key>
+		<string>Nevada</string>
+		<key>778</key>
+		<string>Canada - British Columbia</string>
+		<key>779</key>
+		<string>Illinois</string>
+		<key>780</key>
+		<string>Canada - Alberta</string>
+		<key>781</key>
+		<string>Massachusetts</string>
+		<key>784</key>
+		<string>St. Vincent and the Grenadines</string>
+		<key>785</key>
+		<string>Kansas</string>
+		<key>786</key>
+		<string>Florida</string>
+		<key>787</key>
+		<string>Puerto Rico</string>
+		<key>800</key>
+		<string>Toll free</string>
+		<key>801</key>
+		<string>Utah</string>
+		<key>802</key>
+		<string>Vermont</string>
+		<key>803</key>
+		<string>South Carolina</string>
+		<key>804</key>
+		<string>Virginia</string>
+		<key>805</key>
+		<string>California</string>
+		<key>806</key>
+		<string>Texas</string>
+		<key>807</key>
+		<string>Canada - Ontario</string>
+		<key>808</key>
+		<string>Hawaii</string>
+		<key>809</key>
+		<string>Dominican Republic</string>
+		<key>810</key>
+		<string>Michigan</string>
+		<key>812</key>
+		<string>Indiana</string>
+		<key>813</key>
+		<string>Florida</string>
+		<key>814</key>
+		<string>Pennsylvania</string>
+		<key>815</key>
+		<string>Illinois</string>
+		<key>816</key>
+		<string>Missouri</string>
+		<key>817</key>
+		<string>Texas</string>
+		<key>818</key>
+		<string>California</string>
+		<key>819</key>
+		<string>Canada - Quebec</string>
+		<key>828</key>
+		<string>North Carolina</string>
+		<key>829</key>
+		<string>Dominican Republic</string>
+		<key>830</key>
+		<string>Texas</string>
+		<key>831</key>
+		<string>California</string>
+		<key>832</key>
+		<string>Texas</string>
+		<key>843</key>
+		<string>South Carolina</string>
+		<key>845</key>
+		<string>New York</string>
+		<key>847</key>
+		<string>Illinois</string>
+		<key>848</key>
+		<string>New Jersey</string>
+		<key>849</key>
+		<string>Dominican Republic</string>
+		<key>850</key>
+		<string>Florida</string>
+		<key>855</key>
+		<string>Toll free</string>
+		<key>856</key>
+		<string>New Jersey</string>
+		<key>857</key>
+		<string>Massachusetts</string>
+		<key>858</key>
+		<string>California</string>
+		<key>859</key>
+		<string>Kentucky</string>
+		<key>860</key>
+		<string>Connecticut</string>
+		<key>862</key>
+		<string>New Jersey</string>
+		<key>863</key>
+		<string>Florida</string>
+		<key>864</key>
+		<string>South Carolina</string>
+		<key>865</key>
+		<string>Tennessee</string>
+		<key>866</key>
+		<string>Toll free</string>
+		<key>867</key>
+		<string>Canada - NW Territories, Nunavut, Yukon</string>
+		<key>868</key>
+		<string>Trinidad &amp; Tobago</string>
+		<key>869</key>
+		<string>St. Kitts &amp; Nevis</string>
+		<key>870</key>
+		<string>Arkansas</string>
+		<key>872</key>
+		<string>Illinois</string>
+		<key>873</key>
+		<string>Canada - Quebec</string>
+		<key>876</key>
+		<string>Jamaica</string>
+		<key>877</key>
+		<string>Toll free</string>
+		<key>878</key>
+		<string>Pennsylvania</string>
+		<key>888</key>
+		<string>Toll free</string>
+		<key>900</key>
+		<string>Pay per call</string>
+		<key>901</key>
+		<string>Tennessee</string>
+		<key>902</key>
+		<string>Canada - Nova Scotia</string>
+		<key>903</key>
+		<string>Texas</string>
+		<key>904</key>
+		<string>Florida</string>
+		<key>905</key>
+		<string>Canada - Ontario</string>
+		<key>906</key>
+		<string>Michigan</string>
+		<key>907</key>
+		<string>Alaska</string>
+		<key>908</key>
+		<string>New Jersey</string>
+		<key>909</key>
+		<string>California</string>
+		<key>910</key>
+		<string>North Carolina</string>
+		<key>911</key>
+		<string>Emergency</string>
+		<key>912</key>
+		<string>Georgia</string>
+		<key>913</key>
+		<string>Kansas</string>
+		<key>914</key>
+		<string>New York</string>
+		<key>915</key>
+		<string>Texas</string>
+		<key>916</key>
+		<string>California</string>
+		<key>917</key>
+		<string>New York</string>
+		<key>918</key>
+		<string>Oklahoma</string>
+		<key>919</key>
+		<string>North Carolina</string>
+		<key>920</key>
+		<string>Wisconsin</string>
+		<key>925</key>
+		<string>California</string>
+		<key>928</key>
+		<string>Arizona</string>
+		<key>929</key>
+		<string>New York</string>
+		<key>931</key>
+		<string>Tennessee</string>
+		<key>936</key>
+		<string>Texas</string>
+		<key>937</key>
+		<string>Ohio</string>
+		<key>938</key>
+		<string>Alabama</string>
+		<key>939</key>
+		<string>Puerto Rico</string>
+		<key>940</key>
+		<string>Texas</string>
+		<key>941</key>
+		<string>Florida</string>
+		<key>947</key>
+		<string>Michigan</string>
+		<key>949</key>
+		<string>California</string>
+		<key>951</key>
+		<string>California</string>
+		<key>952</key>
+		<string>Minnesota</string>
+		<key>954</key>
+		<string>Florida</string>
+		<key>956</key>
+		<string>Texas</string>
+		<key>970</key>
+		<string>Colorado</string>
+		<key>971</key>
+		<string>Oregon</string>
+		<key>972</key>
+		<string>Texas</string>
+		<key>973</key>
+		<string>New Jersey</string>
+		<key>978</key>
+		<string>Massachusetts</string>
+		<key>979</key>
+		<string>Texas</string>
+		<key>980</key>
+		<string>North Carolina</string>
+		<key>984</key>
+		<string>North Carolina</string>
+		<key>985</key>
+		<string>Louisiana</string>
+		<key>989</key>
+		<string>Michigan</string>
+	</dict>
+</plist>
